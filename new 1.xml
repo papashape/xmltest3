@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE new SYSTEM "C:\Users\hasee\Documents\Visual Studio 2015\Projects\Win32Project2\Win32Project2\new.dtd">
+<body>
+<Library>
+<Book BookId="1">
+<Title>需求分析与系统设计</Title>
+<Author>Leszek A.Maciaszek</Author>
+<Price>59.00</Price>
+<Publisher>机械工业出版社</Publisher>
+<Cost>59.00</Cost>
+</Book>
+
+<Book BookId="2">
+<Title>微机原理及应用</Title>
+<Author>李鹏</Author>
+<Price>39.80</Price>
+<Publisher>电子工业出版社</Publisher>
+<Cost>39.80</Cost>
+</Book>
+
+<Member>
+<Name>
+<Firstname>张</Firstname>
+<Middlename>三</Middlename>
+<Lastname>三</Lastname>
+</Name>
+<Address>
+<Housenumber>1</Housenumber>
+<Street>中华大街</Street>
+<City>荆州</City>
+</Address>
+</Member>
+
+<Member>
+<Name>
+<Firstname>李</Firstname>
+<Middlename>四</Middlename>
+<Lastname>四</Lastname>
+</Name>
+<Address>
+<Housenumber>2</Housenumber>
+<Street>中华大街</Street>
+<City>荆州</City>
+</Address>
+</Member>
+</Library>
+</body>
